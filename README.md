@@ -1,8 +1,8 @@
 # Cuestion_Datos_2026
 
-Plataforma web en evolución para traducir datos públicos en análisis comprensibles sobre política pública social en Colombia.
+Plataforma web para traducir datos públicos en análisis comprensibles sobre política pública social en Colombia.
 
-Esta versión 2026 inicia como MVP estático y toma como referencia conceptual el proyecto **Cuestión de Datos — README v2** (periodismo de datos + ciencia política + analítica aplicada), priorizando claridad de alcance y base documental antes de escalar a una app completa.
+Cuestión de Datos es periodismo de datos + ciencia política + analítica aplicada, priorizando claridad de alcance y base documental antes de escalar a una solución completa.
 
 ## Propósito del proyecto
 
@@ -19,17 +19,8 @@ Esta versión 2026 inicia como MVP estático y toma como referencia conceptual e
 	- Home / Newsroom
 	- Laboratorio político-electoral (CIVITAS)
 	- Recursos y guías
-	- Matemáticas en Política
-	- República Digital
-
-## Estado actual del repositorio
-
-Este repositorio está en fase de **fundación**:
-
-- Interfaz mínima funcional (HTML + CSS).
-- Sin backend ni base de datos en producción.
-- Sin pipeline de datos automatizado.
-- Prioridad: definir estándares de producto y preparar implementación incremental.
+	- Matemáticas en Política: Uso de metodologías para análisis de datos abiertos
+	- República Digital: Casos de uso de datos en el contexto digital del país
 
 ## Estructura del proyecto
 
@@ -40,17 +31,13 @@ Este repositorio está en fase de **fundación**:
 - `docs/project_scope.md`: objetivo, usuarios, funcionalidades y métricas del MVP.
 - `docs/tech_stack.md`: decisiones tecnológicas y plan de calidad.
 
-## Cómo ejecutar
-
-1. Abrir `index.html` en el navegador.
-2. (Opcional) Usar una extensión tipo Live Server para recarga automática durante edición.
-
-## Hoja de ruta sugerida
+## ¿Hacia dónde quieremos ir?
 
 1. Construir landing informativa con narrativa de datos.
 2. Incorporar primera visualización con dataset público en CSV/JSON.
 3. Definir componentes reutilizables (tarjetas, filtros, tablas, gráficos).
 4. Añadir capa de datos versionados para comparar indicadores en el tiempo.
+5. Hacer primeros pilotos del uso de API públicas (como Socrata) para visualización y análisis de datos públicos. 
 5. Evaluar migración a framework (p. ej. Next.js) cuando el MVP valide uso.
 
 ## Criterio de éxito inicial
@@ -60,5 +47,5 @@ El proyecto se considera útil en su primera iteración cuando una persona usuar
 - entrar al sitio,
 - entender el problema público abordado,
 - explorar al menos una visualización,
-- y extraer una conclusión accionable en menos de 3 minutos.
+- y extraer una conclusión accionable en menos de 5 minutos.
 
