@@ -6,7 +6,7 @@
 - **Estrategia de estilos:** CSS modular simple en `css/styles.css`, con convenciones de diseño definidas en `docs/design_system.md`.
 
 ### Preguntas orientadoras
-- **¿Se usará HTML/CSS/JS puro o framework?** HTML/CSS/JS puro al inicio.
+- **¿Se usará HTML/CSS/JS puro o framework?** HTML/CSS/JS puro al inicio para recurso del curso.
 - **¿Qué criterio define esa decisión?** Reducir complejidad y acelerar validación del problema antes de migrar a framework.
 
 ## Backend (si aplica)
