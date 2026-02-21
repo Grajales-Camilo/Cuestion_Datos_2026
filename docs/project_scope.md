@@ -6,7 +6,7 @@
 
 ### Preguntas orientadoras
 - **¿Qué necesidad concreta cubre este proyecto?** Entender un problema público mediante evidencia visual clara, sin depender de análisis técnicos complejos.
-- **¿Qué tarea principal debe poder completar un usuario en menos de 3 minutos?** Identificar una tendencia o brecha en un indicador social y su posible implicación de política.
+- **¿Qué tarea principal debe poder completar un usuario en menos de 5 minutos?** Identificar una tendencia o brecha en un indicador social y su posible implicación de política.
 - **¿Cuál es el criterio mínimo para considerar útil la primera versión (MVP)?** Publicar una página funcional con narrativa + al menos un bloque de datos interpretables.
 
 ## Usuarios objetivo
