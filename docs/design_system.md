@@ -6,7 +6,7 @@
 
 ### Preguntas orientadoras
 - **¿Qué sensación debe transmitir la interfaz?** Rigor analítico con lenguaje comprensible para audiencias no técnicas.
-- **¿Qué 3 adjetivos describen el estilo visual?** Sobrio, legible y confiable.
+- **¿Qué adjetivos describen el estilo visual?** Sobrio, legible y confiable.
 
 ## Colores
 - **Color primario:** azul profundo (institucional/confiable).
